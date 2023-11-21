@@ -7,3 +7,10 @@
 var msg = "What's up?"
 console.log(msg);
 ```
+
+
+Task list
+- [ ] Learn how to GitHub
+- [ ] Crush FullStack open course
+- [ ] Get paid
+      
